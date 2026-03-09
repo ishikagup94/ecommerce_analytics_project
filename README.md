@@ -128,30 +128,5 @@ Key Insight:
 - SQL	Data transformation and analytics
 - Tableau	Dashboard visualization
 
-
-Project Structure
-ecommerce_analytics_project
-│
-├── data
-│   ├── customers_clean.csv
-│   ├── orders_clean.csv
-│   ├── products_clean.csv
-│   └── website_events_clean.csv
-│
-├── SQL
-│   ├── data_cleaning.sql
-│   ├── data_preparation.sql
-│   └── analysis_queries.sql
-│
-├── tableau
-│   └── ecommerce_dashboard.twbx
-│
-└── images
-    ├── business_performance.png
-    ├── product_performance.png
-    ├── customer_segmentation.png
-    └── conversion_funnel.png
-  
-
 Author
 Ishika Gupta
